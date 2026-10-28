@@ -1,7 +1,7 @@
 # 🛠️ Python Utility Modules — Custom Calendar, Math & System Productivity Toolkit
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=083344,0891B2,67E8F9&height=220&section=header&text=Python%20Utility%20Modules&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Custom%20Reusable%20Calendar%2C%20Arithmetic%20%26%20System%20Productivity%20Toolkit&descSize=16&descAlignY=60&descAlign=50" width="100%" alt="Python Utility Modules Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:083344,50:0891B2,100:67E8F9&customColorList=083344,0891B2,67E8F9&height=220&section=header&text=Python%20Utility%20Modules&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Custom%20Reusable%20Calendar%2C%20Arithmetic%20%26%20System%20Productivity%20Toolkit&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="Python Utility Modules Banner" />
 </p>
 
 <p align="center">
@@ -150,5 +150,5 @@ Contributions, bug reports, and architectural discussions are welcome!
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=083344,0891B2,67E8F9&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:083344,50:0891B2,100:67E8F9&customColorList=083344,0891B2,67E8F9&height=100&section=footer" width="100%" alt="Footer Banner" />
 </p>
